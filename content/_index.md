@@ -31,21 +31,21 @@ sections:
           date_start: '2021-10-01'
           date_end: ''
           description: |2-
-              Responsible for all aspects of the secure product delivery strategy.
-              Responsible for driving secure product delivery in partnership with Affirm engineering, product, compliance, and legal teams. 
-              Responsibilities include:
+              * Responsible for all aspects of the secure product delivery strategy.
+              * Responsible for driving secure product delivery in partnership with Affirm engineering, product, compliance, and legal teams. 
+              |2- Responsibilities include:
 
               * Analysing
               * Modelling
               * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
+        - title: Director, Information Security
+          company: The Walt Disney Company
+          company_url: 'https://www.disney.com/'
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Seattle, WA
+          date_start: '2020-02-01'
+          date_end: '2021-10-1'
+          description: 
     design:
       columns: '2'
   - block: accomplishments
