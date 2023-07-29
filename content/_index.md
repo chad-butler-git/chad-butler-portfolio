@@ -44,7 +44,7 @@ sections:
           company_logo: org-x
           location: Seattle, WA
           date_start: '2020-02-01'
-          date_end: '2021-10-1'
+          date_end: '2021-10-01'
           description: 
     design:
       columns: '2'
