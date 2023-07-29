@@ -33,11 +33,12 @@ sections:
           description: |2-
               * Responsible for all aspects of the secure product delivery strategy.
               * Responsible for driving secure product delivery in partnership with Affirm engineering, product, compliance, and legal teams. 
-              |2- Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
+            Responsibilities include:
+
+                * Analysing
+                * Modelling
+                * Deploying
         - title: Director, Information Security
           company: The Walt Disney Company
           company_url: 'https://www.disney.com/'
