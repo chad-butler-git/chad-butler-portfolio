@@ -25,13 +25,14 @@ role: Information Security Leader and Founder
 bio: Leader of global, multi-disciplinary security and engineering organizations focussed on managing risk and empowering business growth. 
 
 # Interests to show in About widget
-interests:
+# interests:
+expertise:
   - Expert in leading multi-disciplinary innovative security organizations
   - Strong track record of building leaders and high performing teams.
   - Pragmatic approach to solving complex business security problems that enable growth.
 
 # Education to show in About widget
-education:
+education: []
   courses: []
 
 # Social/Academic Networking
