@@ -32,8 +32,8 @@ expertise:
   - Pragmatic approach to solving complex business security problems that enable growth.
 
 # Education to show in About widget
-education: []
-  courses: []
+# education: []
+#  courses: []
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
