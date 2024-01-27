@@ -27,16 +27,15 @@ sections:
           company: Affirm
           company_url: 'https://www.affirm.com/'
           company_logo: org-gc
-          location: Arizona
+          # location: Arizona
           date_start: '2021-10-01'
           date_end: ''
           description: |2-
               * Responsible for all aspects of the secure product delivery strategy.
               * Responsible for driving secure product delivery in partnership with Affirm engineering, product, compliance, and legal teams. 
-
-              Key accomplishments:
-                * **Product Security Leadership**: Built a global, multi-disciplinary organization and strategy for Affirm and its international subsidiaries, PayBright, Returnly, and Butter.
-                * **Product Improvements**: Led a cross functional team to deliver a secure consumer identity and authentication strategy that improved consumer security and conversion metrics while addressing fraud, security, and compliance risks.
+              **Key accomplishments:**
+              **Product Security Leadership:** Built a global, multi-disciplinary organization and strategy for Affirm and its international subsidiaries, PayBright, Returnly, and Butter.
+              **Product Improvements:** Led a cross functional team to deliver a secure consumer identity and authentication strategy that improved consumer security and conversion metrics while addressing fraud, security, and compliance risks.
         - title: Director, Information Security
           company: The Walt Disney Company
           company_url: 'https://www.disney.com/'
